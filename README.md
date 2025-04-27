@@ -2,7 +2,7 @@
 
 I'm currently pursuing an MSc in Data Science at Coventry University, where I’ve focused on building machine learning models and solving real-world data challenges.
 
-Over time, I’ve developed my skills by working directly with real data — cleaning messy datasets, understanding business problems, and using machine learning when it made sense. I believe that good data science isn’t just about building models; it’s about asking the right questions, understanding the data deeply, and choosing the best approach, whether it’s statistical, analytical, or machine learning-based.
+Over time, I’ve developed my skills by working directly with real data, cleaning messy datasets, understanding business problems, and using machine learning when it made sense. I believe that good data science isn’t just about building models; it’s about asking the right questions, understanding the data deeply, and choosing the best approach, whether it’s statistical, analytical, or machine learning-based.
 
 ---
 
