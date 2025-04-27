@@ -1,7 +1,6 @@
 # Hi, I'm Victor Otobo
 
 MSc Data Science student at Coventry University  
-AI & ML Enthusiast | Engineering purpose-driven AI models  
 Focused on Machine Learning, NLP, Computer Vision, and Time-Series Forecasting  
 Passionate about turning real-world data into reliable AI solutions
 
