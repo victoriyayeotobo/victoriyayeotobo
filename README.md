@@ -2,18 +2,31 @@
 
 MSc Data Science student at Coventry University  
 Focused on Machine Learning, NLP, Computer Vision, and Time-Series Forecasting  
-Passionate about turning real-world data into reliable AI solutions
+Passionate about turning real-world data into reliable AI solutions through hands-on experimentation and continuous learning.
 
 ---
 
-## Skills & Tools
-- Languages: Python, R, SQL
-- Frameworks/Libraries: TensorFlow, Keras, scikit-learn, pandas, NumPy
-- Data Handling: Data cleaning, dirty data handling, exploratory data analysis (EDA)
-- Problem Solving: Applying mathematical, statistical, and non-ML approaches to solve business problems
-- Core Strengths: Understanding business needs, framing the right questions, focusing on actionable insights
-- Technical Tools: Jupyter Notebook, Google Colab, Git, Tableau
-- Mindset: Valuing the process — deep exploration, critical thinking, and continuous improvement — more than just outcomes
+## Experience and Skills
+
+Through a series of academic projects and independent research, I have built practical skills in:
+
+- **Data Analysis and Preprocessing**:  
+  Cleaned, prepared, and explored complex datasets using Python (pandas, NumPy) to uncover meaningful patterns and prepare data for modeling.
+
+- **Machine Learning and Deep Learning**:  
+  Developed predictive models using scikit-learn and deep learning frameworks like TensorFlow and Keras, including experience with CNNs, LSTMs, GRUs, and BERT for real-world challenges.
+
+- **Statistical Thinking and Business Problem Solving**:  
+  Applied statistical concepts and non-ML approaches to frame business questions, perform exploratory analysis (EDA), and drive decision-making without overfitting technical solutions.
+
+- **Visualization and Communication**:  
+  Created clear and actionable dashboards and visual reports using Tableau, matplotlib, and seaborn to present findings to both technical and non-technical audiences.
+
+- **Tools and Workflow**:  
+  Managed end-to-end data science workflows in Jupyter Notebook and Google Colab, using Git for version control and collaborative project management.
+
+- **Mindset**:  
+  I believe in mastering the data science lifecycle — valuing exploration, careful problem framing, and critical thinking throughout every stage — not just optimizing for final results.
 
 ---
 
