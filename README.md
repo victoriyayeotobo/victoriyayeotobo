@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Victor Otobo
 
-<!--
-**victoriyayeotobo/victoriyayeotobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Data Science student at Coventry University  
+AI & ML Enthusiast | Engineering purpose-driven AI models  
+Focused on Machine Learning, NLP, Computer Vision, and Time-Series Forecasting  
+Passionate about turning real-world data into reliable AI solutions
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Tools
+- Languages: Python, R, SQL
+- Frameworks/Libraries: TensorFlow, Keras, scikit-learn, pandas, NumPy
+- Tools: Jupyter Notebook, Google Colab, Git, Tableau
+- Concepts: EDA, Feature Engineering, Model Evaluation, Fairness in AI
+
+---
+
+## Projects
+- Offensive Language Detection (BERT, BiLSTM, CNN)
+- Inventory Forecasting (ARIMA model for stock prediction)
+- Glucose Level Prediction (LSTM, GRU, CNN models)
+- Income Classification and Fairness Analysis
+- Brain Signal Regression Modeling with ABC
+
+---
+
+## Connect with me
+https://www.linkedin.com/in/victor-otobo-9a4878347
