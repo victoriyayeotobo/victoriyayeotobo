@@ -1,32 +1,30 @@
 # Hi, I'm Victor Otobo
 
-MSc Data Science student at Coventry University  
-Focused on Machine Learning, NLP, Computer Vision, and Time-Series Forecasting  
-Passionate about turning real-world data into reliable AI solutions through hands-on experimentation and continuous learning.
+I'm currently pursuing an MSc in Data Science at Coventry University, where I’ve focused on building machine learning models and solving real-world data challenges.
+
+Over time, I’ve developed my skills by working directly with real data — cleaning messy datasets, understanding business problems, and using machine learning when it made sense. I believe that good data science isn’t just about building models; it’s about asking the right questions, understanding the data deeply, and choosing the best approach, whether it’s statistical, analytical, or machine learning-based.
 
 ---
 
-## Experience and Skills
+## Experience and Tools
 
-Through a series of academic projects and independent research, I have built practical skills in:
-
-- **Data Analysis and Preprocessing**:  
-  Cleaned, prepared, and explored complex datasets using Python (pandas, NumPy) to uncover meaningful patterns and prepare data for modeling.
+- **Data Cleaning and Preprocessing**:  
+  Learned to prepare and structure real-world data for analysis and modeling using Python (pandas, NumPy).
 
 - **Machine Learning and Deep Learning**:  
-  Developed predictive models using scikit-learn and deep learning frameworks like TensorFlow and Keras, including experience with CNNs, LSTMs, GRUs, and BERT for real-world challenges.
+  Gained hands-on experience training models with scikit-learn, TensorFlow, and Keras across different domains like NLP, forecasting, and classification.
 
-- **Statistical Thinking and Business Problem Solving**:  
-  Applied statistical concepts and non-ML approaches to frame business questions, perform exploratory analysis (EDA), and drive decision-making without overfitting technical solutions.
+- **Problem Solving and Business Understanding**:  
+  Applied statistical thinking and domain understanding to solve business problems — not just relying on ML but exploring non-ML approaches when needed.
 
-- **Visualization and Communication**:  
-  Created clear and actionable dashboards and visual reports using Tableau, matplotlib, and seaborn to present findings to both technical and non-technical audiences.
+- **Visualization and Reporting**:  
+  Used tools like Tableau and matplotlib to make complex results clear, actionable, and understandable for different audiences.
 
-- **Tools and Workflow**:  
-  Managed end-to-end data science workflows in Jupyter Notebook and Google Colab, using Git for version control and collaborative project management.
+- **Workflow and Collaboration**:  
+  Worked with Jupyter Notebook, Google Colab, and Git to manage, document, and track projects end-to-end.
 
 - **Mindset**:  
-  I believe in mastering the data science lifecycle — valuing exploration, careful problem framing, and critical thinking throughout every stage — not just optimizing for final results.
+  I enjoy the full process — exploring the data, finding the story behind it, solving real problems — not just focusing on final outcomes.
 
 ---
 
