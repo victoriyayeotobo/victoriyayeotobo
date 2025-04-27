@@ -9,8 +9,11 @@ Passionate about turning real-world data into reliable AI solutions
 ## Skills & Tools
 - Languages: Python, R, SQL
 - Frameworks/Libraries: TensorFlow, Keras, scikit-learn, pandas, NumPy
-- Tools: Jupyter Notebook, Google Colab, Git, Tableau
-- Concepts: EDA, Feature Engineering, Model Evaluation, Fairness in AI
+- Data Handling: Data cleaning, dirty data handling, exploratory data analysis (EDA)
+- Problem Solving: Applying mathematical, statistical, and non-ML approaches to solve business problems
+- Core Strengths: Understanding business needs, framing the right questions, focusing on actionable insights
+- Technical Tools: Jupyter Notebook, Google Colab, Git, Tableau
+- Mindset: Valuing the process — deep exploration, critical thinking, and continuous improvement — more than just outcomes
 
 ---
 
@@ -24,4 +27,4 @@ Passionate about turning real-world data into reliable AI solutions
 ---
 
 ## Connect with me
-https://www.linkedin.com/in/victor-otobo-9a4878347
+[LinkedIn](https://www.linkedin.com/in/victor-otobo-9a4878347)
