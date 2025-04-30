@@ -1,41 +1,41 @@
-# Hi, I'm Victor Otobo
+# Hi, I'm Victor Otobo 👋
 
-I'm currently pursuing an MSc in Data Science at Coventry University, where I’ve focused on building machine learning models and solving real-world data challenges.
-
-Over time, I’ve developed my skills by working directly with real data, cleaning messy datasets, understanding business problems, and using machine learning when it made sense. I believe that good data science isn’t just about building models; it’s about asking the right questions, understanding the data deeply, and choosing the best approach, whether it’s statistical, analytical, or machine learning-based.
-
----
-
-## Experience and Tools
-
-- **Data Cleaning and Preprocessing**:  
-  Learned to prepare and structure real-world data for analysis and modeling using Python (pandas, NumPy).
-
-- **Machine Learning and Deep Learning**:  
-  Gained hands-on experience training models with scikit-learn, TensorFlow, and Keras across different domains like NLP, forecasting, and classification.
-
-- **Problem Solving and Business Understanding**:  
-  Applied statistical thinking and domain understanding to solve business problems — not just relying on ML but exploring non-ML approaches when needed.
-
-- **Visualization and Reporting**:  
-  Used tools like Tableau and matplotlib to make complex results clear, actionable, and understandable for different audiences.
-
-- **Workflow and Collaboration**:  
-  Worked with Jupyter Notebook, Google Colab, and Git to manage, document, and track projects end-to-end.
-
-- **Mindset**:  
-  I enjoy the full process — exploring the data, finding the story behind it, solving real problems — not just focusing on final outcomes.
+🎓 MSc Data Science student at Coventry University  
+🧠 Passionate about Machine Learning, NLP, and Computer Vision  
+🔍 Focused on building real-world AI solutions that are practical, fair, and insightful
 
 ---
 
-## Projects
-- Offensive Language Detection (BERT, BiLSTM, CNN)
-- Inventory Forecasting (ARIMA model for stock prediction)
-- Glucose Level Prediction (LSTM, GRU, CNN models)
-- Income Classification and Fairness Analysis
-- Brain Signal Regression Modeling with ABC
+## 🚀 What I Do
+
+- Build machine learning models for tasks like **language detection**, **time-series prediction**, and **income classification**
+- Work on projects that combine **deep learning** and **statistical thinking**
+- Explore fairness, interpretability, and real-world performance — not just accuracy
 
 ---
 
-## Connect with me
-[LinkedIn](https://www.linkedin.com/in/victor-otobo-9a4878347)
+## 🧪 Featured Projects
+
+- **InventoryAI**: Full-stack inventory management platform with AI-powered demand forecasting  
+- **Glucose Level Prediction**: LSTM, GRU, CNN models for healthcare time-series forecasting  
+- **Offensive Language Detection**: ML-based NLP pipeline using SMOTE + XGBoost  
+- **Income Classification**: Compared fairness and computational cost across multiple classifiers
+
+> View all repos 👉 [My GitHub Projects](https://github.com/victoriyayeotobo?tab=repositories)
+
+---
+
+## 🛠️ Tools I Work With
+
+`Python` · `scikit-learn` · `TensorFlow/Keras` · `Jupyter` · `SQL` · `Tableau`  
+`pandas` · `NumPy` · `matplotlib` · `Google Colab` · `Git`
+
+---
+
+## 📬 Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/victor-otobo-9a4878347)  
+- [GitHub](https://github.com/victoriyayeotobo)
+
+I'm open to **collaborations**, **internships**, and **junior ML/DS roles**.  
+Let’s build things that work — and matter.
